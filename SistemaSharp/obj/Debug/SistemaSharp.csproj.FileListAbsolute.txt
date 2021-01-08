@@ -1,0 +1,17 @@
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\SistemaSharp\SistemaSharp\bin\Debug\SistemaSharp.exe.config
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\SistemaSharp\SistemaSharp\bin\Debug\SistemaSharp.exe
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\SistemaSharp\SistemaSharp\bin\Debug\SistemaSharp.pdb
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\SistemaSharp\SistemaSharp\obj\Debug\SistemaSharp.csprojAssemblyReference.cache
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\SistemaSharp\SistemaSharp\obj\Debug\SistemaSharp.frmTelaPrincipal.resources
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\SistemaSharp\SistemaSharp\obj\Debug\SistemaSharp.frmTelaSplash.resources
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\SistemaSharp\SistemaSharp\obj\Debug\SistemaSharp.Properties.Resources.resources
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\SistemaSharp\SistemaSharp\obj\Debug\SistemaSharp.csproj.GenerateResource.cache
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\SistemaSharp\SistemaSharp\obj\Debug\SistemaSharp.csproj.CoreCompileInputs.cache
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\SistemaSharp\SistemaSharp\obj\Debug\SistemaSharp.exe
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\SistemaSharp\SistemaSharp\obj\Debug\SistemaSharp.pdb
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\SistemaSharp\SistemaSharp\obj\Debug\SistemaSharp.frmTabuadaAdicao.resources
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\SistemaSharp\SistemaSharp\obj\Debug\SistemaSharp.frmTabuadaSub.resources
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\SistemaSharp\SistemaSharp\obj\Debug\SistemaSharp.frmMediaEscolar.resources
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\SistemaSharp\SistemaSharp\obj\Debug\SistemaSharp.frmVisualizadordeImagens.resources
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\SistemaSharp\SistemaSharp\obj\Debug\SistemaSharp.frmMultiplicacao.resources
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\SistemaSharp\SistemaSharp\obj\Debug\SistemaSharp.frmDivisao.resources
